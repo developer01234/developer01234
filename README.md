@@ -10,4 +10,4 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-133a53?style=for-the-badge&logo=Telegram)](https://t.me/KoT_Pa)
 
 ### 📈 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=developer01234&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
