@@ -7,4 +7,4 @@
 
 
 ### Follow me
-![Telegram](https://img.shields.io/badge/-Telegram-133a53?style=for-the-badge&logo=Telegram)()
+![Telegram](https://img.shields.io/badge/-Telegram-133a53?style=for-the-badge&logo=Telegram)(https://t.me/KoT_Pa)
