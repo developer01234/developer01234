@@ -1,4 +1,4 @@
-## I am React developer
+## Hi there!
 
 ### Tools:
 ![OC](https://img.shields.io/badge/-OC-133a53?style=for-the-badge&logo=Windows)
