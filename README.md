@@ -7,12 +7,6 @@ My name is Ruslan and I'm a frontend software engineer.
 ![Code](https://img.shields.io/badge/Code-Javascript-133a53?style=flat-square&logo=Javascript)
 ![React](https://img.shields.io/badge/Code-React-133a53?style=flat-square&logo=React)
 
-![JS](https://img.shields.io/badge/-Javascript-133a53?style=for-the-badge&logo=Javascript)
-![React](https://img.shields.io/badge/-React-133a53?style=for-the-badge&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-133a53?style=for-the-badge&logo=Redux)
-![TS](https://img.shields.io/badge/-Typescript-133a53?style=for-the-badge&logo=Typescript)
-
-
 ### Follow Me:
 [![Telegram](https://img.shields.io/badge/-Telegram-133a53?style=for-the-badge&logo=Telegram)](https://t.me/KoT_Pa)
 
