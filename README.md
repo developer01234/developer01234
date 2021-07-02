@@ -11,4 +11,6 @@ My name is Ruslan and I'm a frontend software engineer.
 [![Telegram](https://img.shields.io/badge/-Telegram-133a53?style=for-the-badge&logo=Telegram)](https://t.me/KoT_Pa)
 
 ### 📈 GitHub Stats
-[![developer01234 GitHub stats](https://github-readme-stats.vercel.app/api?username=developer01234&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![developer01234 GitHub stats](https://github-readme-stats.vercel.app/api?username=developer01234&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
