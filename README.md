@@ -8,3 +8,5 @@
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-133a53?style=for-the-badge&logo=Telegram)](https://t.me/KoT_Pa)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
