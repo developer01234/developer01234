@@ -3,7 +3,7 @@ My name is Ruslan and I'm a frontend software engineer.
 
 ### 🔧 Tools:
 ![OC](https://img.shields.io/badge/Windows-133a53?style=flat-square&logo=Windows)
-![Editor](https://img.shields.io/badge/VS-133a53?style=flat-square&logo=visual studio)
+![Editor](https://img.shields.io/badge/VS-133a53?style=flat-square&logo=visual_studio)
 ![Code](https://img.shields.io/badge/Javascript-133a53?style=flat-square&logo=Javascript)
 ![React](https://img.shields.io/badge/React-133a53?style=flat-square&logo=React)
 
