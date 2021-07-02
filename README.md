@@ -1,4 +1,5 @@
 ## Hi there!
+My name is Ruslan and I'm a frontend software engineer.
 
 ### 🔧 Tools:
 ![OC](https://img.shields.io/badge/-OC-133a53?style=for-the-badge&logo=Windows)
