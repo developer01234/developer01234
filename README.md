@@ -1,6 +1,6 @@
 ## I am React developer
 
 ## Tools
-![Flutter](https://img.shields.io/badge/<MESSAGE>-<COLOR>)
+![React](https://img.shields.io/badge/ React <COLOR>)
 
 ## Follow me
