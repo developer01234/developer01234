@@ -1,7 +1,7 @@
 ## Hi there!
 My name is Ruslan and I'm a frontend React developer.
 
-### 🔧 echnologies & Tools:
+### 🔧 Technologies & Tools:
 ![OC](https://img.shields.io/badge/OC-Windows-133a53?style=flat-square&logo=Windows)
 ![Editor](https://img.shields.io/badge/Editor-VS-133a53?style=flat-square&logo=visual-studio)
 ![Code](https://img.shields.io/badge/Code-Javascript-133a53?style=flat-square&logo=Javascript)
