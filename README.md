@@ -8,7 +8,7 @@ My name is Ruslan and I'm a frontend React developer.
 ![React](https://img.shields.io/badge/Code-React-56a9e9?style=flat-square&logo=React)
 
 ### 📈 GitHub Stats
-[![developer01234 GitHub stats](https://github-readme-stats.vercel.app/api?username=developer01234&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![developer01234 GitHub stats](https://github-readme-stats.vercel.app/api?username=developer01234&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developer01234&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Follow Me:
