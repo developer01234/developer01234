@@ -16,12 +16,3 @@ My name is Ruslan and I'm a frontend React developer.
   </tr>   
 </table>
 </p>
-
-<br />
-
-<p>
-  <a href="https://t.me/KoT_Pa"><img src="https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=telegram&logoColor=white&color=56a9e9" /></a>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=developer01234.visitor-badge&color=5194f0" />
-</p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developer01234&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
