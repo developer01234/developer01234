@@ -1,4 +1,4 @@
-##  Hi there!
+##  <a href='https://emojitool.ru/waving-hand-sign'>👋</a> Hi there!
 My name is Ruslan and I'm a frontend React developer.
 
 ### 🔧 Technologies & Tools:
