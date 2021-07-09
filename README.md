@@ -1,5 +1,6 @@
 ##  👋 Hi there!
 My name is Ruslan and I'm a frontend React developer.
+Anna mulle andeks, et olen parim
 
 ### 🔧 Technologies & Tools:
 ![OC](https://img.shields.io/badge/OC-Windows-56a9e9?style=flat-square&logo=Windows)
