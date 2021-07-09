@@ -19,7 +19,9 @@ My name is Ruslan and I'm a frontend React developer.
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developer01234&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <a href="https://t.me/KoT_Pa"><img src="https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=telegram&logoColor=white&color=56a9e9" /></a>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=developer01234.visitor-badge&color=5194f0" />
+</p>
 
-### Follow Me:
-[![Telegram](https://img.shields.io/badge/-Telegram-56a9e9?style=flat-square&logo=Telegram)](https://t.me/KoT_Pa)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developer01234&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
