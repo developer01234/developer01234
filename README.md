@@ -3,7 +3,7 @@ My name is Ruslan and I'm a frontend React developer.
 Anna mulle andeks, et olen parim
 
 ### 🔧 Technologies & Tools:
-![](https://img.shields.io/badge/OC-Windows-5194f0?style=flat-square&logo=Windows)
+![](https://img.shields.io/badge/OC-Windows-informational?style=flat-square&logo=Windows&logoColor=white&color=5194f0&bgcolor=110d17)
 ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=5194f0)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=5194f0)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat-square&logo=React&logoColor=white&color=5194f0)
