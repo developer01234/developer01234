@@ -12,11 +12,6 @@ Anna mulle andeks, et olen parim
 [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 
-![](https://img.shields.io/badge/OC-Windows-informational?style=flat-square&logo=Windows&logoColor=white&color=5194f0&bgcolor=110d17)
-![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Code-React-informational?style=flat-square&logo=React&logoColor=white&color=5194f0)
-
 ### 📈 GitHub Stats
 <p align="center">
   <table>
