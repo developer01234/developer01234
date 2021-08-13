@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Ruslan</h1>
-<h3 align="center">A junior frontend developer from Russian</h3>
+## 👋 Hi there! 
+
+My name is Ruslan and I'm a front-end. I'm from Russia, living in ❄kineshma and currently working at startup [Slidepage](https://a3alv11y0pevumm3s9v0.slide.page/). 
 
 
 ### 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=5194f0&bgcolor=110d17)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat-square&logo=amazon&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat-square&logo=amazon&logoColor=white&color=5194f0)
 ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=5194f0)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=5194f0)
 
