@@ -1,6 +1,6 @@
 ## 👋 Hi there! 
 
-My name is Ruslan and I'm a front-end. I'm from Russia, living in ❄kineshma and currently working at startup [Slidepage](https://a3alv11y0pevumm3s9v0.slide.page/). 
+My name is Ruslan and I'm a front-end. I'm from Russia, living in ❄kineshma [Slidepage](https://a3alv11y0pevumm3s9v0.slide.page/). 
 
 
 ### 🔧 Technologies & Tools
