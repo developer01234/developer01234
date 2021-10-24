@@ -1,13 +1,10 @@
 ### Hi there, I'm Ruslan 👋
 
-My name is Ruslan and I'm a front-end. I'm from Russia, living in ❄kineshma. 
-
-
-### 🔧 Technologies & Tools
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ruslan2)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/IT62795882)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Lenin_liveing)
+
+I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
 
 <br />
 
