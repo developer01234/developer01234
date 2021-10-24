@@ -10,12 +10,10 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 
-### 📈 GitHub Stats
-<p align="center">
-  <table>
+📈 **My GitHub Stats:**
+<p>
   <tr>
       <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=developer01234&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
       <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer01234&hide=html&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
-  </tr>   
-</table>
+  </tr>
 </p>
