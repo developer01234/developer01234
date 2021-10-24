@@ -10,6 +10,13 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 
+**Talking about Personal Stuffs:**
+
+- 👨🏻‍💻 I’m currently working on something cool;
+- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: ruslansorokin234567@gmail.com;
+
 </br>
 
 📈 **My GitHub Stats:**
