@@ -15,7 +15,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
+- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/);
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: ruslansorokin234567@gmail.com;
 
