@@ -5,10 +5,9 @@ My name is Ruslan and I'm a front-end. I'm from Russia, living in ❄kineshma.
 
 ### 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=5194f0&bgcolor=110d17)
-![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat-square&logo=Microsoft&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=5194f0)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ruslan2)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/IT62795882)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Lenin_liveing)
 
 <br />
 
