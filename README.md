@@ -37,5 +37,6 @@
 </br>
 
 ## 𝗦𝘁𝗮𝘁𝘀
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=developer01234&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer01234&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+
+![github stats](https://github-readme-stats.vercel.app/api?username=developer01234&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developer01234&layout=compact&count_private=true&theme=gruvbox)
