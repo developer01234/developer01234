@@ -12,11 +12,11 @@
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
-![NodeJS](https://img.shields.io/badge/-nodejs-0aad48?style=flat-square&logo=javascript)
+![NodeJS](https://img.shields.io/badge/-Nodejs-0aad48?style=flat-square&logo=javascript)
 
 **Databases**
 
-![mongodb](https://img.shields.io/badge/-mongodb-FCA121?style=flat-square&logo=mongodb)
+![Mongodb](https://img.shields.io/badge/-Mongodb-FCA121?style=flat-square&logo=mongodb)
 
 **Front-end**
 
