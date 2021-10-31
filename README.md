@@ -26,7 +26,7 @@
 ![React](https://img.shields.io/badge/-React-007ACC?style=flat-square&logo=react&logoColor=whiter)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
+![TailwindCss](https://img.shields.io/badge/-Tailwind-Css-%231a202c?style=flat-square&logo=tailwind-css)
 
 **Tools**
 
