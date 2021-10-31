@@ -31,7 +31,7 @@
 **Tools**
 
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-![WebStorm](https://img.shields.io/badge/-WebStorm-ffce5a?style=flat-square&logo=jetbrains)
+![WebStorm](https://img.shields.io/badge/-WebStorm-232c3e50?style=flat-square&logo=jetbrains)
 ![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
 
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
