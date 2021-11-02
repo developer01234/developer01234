@@ -20,7 +20,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
-![NodeJS](https://img.shields.io/badge/-Nodejs-0aad48?style=flat-square&logo=javascript)
+![NodeJS](https://img.shields.io/badge/-NodeJS-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 
 **Databases**
 
