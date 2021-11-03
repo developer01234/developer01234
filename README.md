@@ -25,7 +25,7 @@
 **Databases**
 
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
-![Mongodb](https://img.shields.io/badge/-Mongodb-FCA121?style=flat-square&logo=mongodb)
+![Mongodb](https://img.shields.io/badge/-Mongo-db-FCA121?style=flat-square&logo=mongodb)
 
 **Front-end**
 
