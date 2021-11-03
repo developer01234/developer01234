@@ -6,7 +6,7 @@
 <a href="https://twitter.com/IT62795882/">
   <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/ruslan2/">
+<a href="https://www.linkedin.com/in/ruslan12/">
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
