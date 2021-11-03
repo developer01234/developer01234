@@ -47,6 +47,10 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+**Learning**
+
+![С#](https://img.shields.io/badge/-%D0%A1Sharp-1d72b1?style=flat-square&logo=csharp)
+
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=developer01234&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
