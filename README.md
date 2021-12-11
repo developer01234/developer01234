@@ -18,7 +18,7 @@
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer01234&show_icons=true&locale=en&layout=compact&bg_color=00000000&text_color=808080" alt="developer01234" /></p>
   </td>
   <td>
-    <p align="left"> <a href="#nolink"><img src="https://github-profile-trophy.vercel.app/?username=developer01234&no-bg=true" alt="developer01234" /></a> </p>
+    <p align="left"> <img width="99%" src="https://github-profile-trophy.vercel.app/?username=developer01234&row=1&theme=darkhub"/> </p>
   </td>
 </table>
 <table>
