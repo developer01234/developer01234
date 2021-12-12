@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruslan Shvetsov</h1>
-<h3 align="center">A fullstack developer from Russian</h3>
+<h3 align="center">A fullstack web developer from Russian</h3>
 
 <table>
   <tr>
