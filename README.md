@@ -13,22 +13,14 @@
     </td>
   </tr>
 </table>
-<table>
-  <td>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer01234&show_icons=true&locale=en&layout=compact&bg_color=00000000&text_color=808080" alt="developer01234" /></p>
-  </td>
-  <td>
-    <p align="left"> <img width="100%" src="https://github-profile-trophy.vercel.app/?username=developer01234&row=1&theme=darkhub"/> </p>
-  </td>
-</table>
-<table>
-  <td>
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developer01234&show_icons=true&locale=en&bg_color=00000000&text_color=808080" alt="developer01234" /></p>
-  </td>
-  <td>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developer01234&background=00000000&currStreakNum=gray&sideNums=gray&currStreakLabel=gray&sideLabels=gray&dates=gray" alt="developer01234" /></p>
-  </td>
-</table>
+<p align="left">
+<a href="https://github.com/emmysteven/emmysteven">
+	<img width="450px" src="https://github-readme-stats.vercel.app/api?username=developer01234&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true" />
+</a><a href="https://github.com/emmysteven/emmysteven">
+	<img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer01234&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&layout=compact&langs_count=8&hide=css,html,dockerfile,freemarker" />
+</a>
+</p>
+
 <br>
 
 <h3 align="left">Support:</h3>
