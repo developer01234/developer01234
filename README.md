@@ -1,6 +1,5 @@
-### Hi there 👋, I'm Ruslan Shvetsov
+### Hi there 👋, I'm a Fullstack Developer
 
-## I'm Fullstack Web Developer
 - 🔭 I'm currently working on a [Server platform](https://github.com/developer01234/bug-free-lamp)!
 - 🌱 I’m currently learning Backend
 - ⚡ Fun fact: I love to listen to [face](https://www.youtube.com/c/facemoney)
