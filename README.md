@@ -4,6 +4,7 @@
 - 🔭 I'm currently working on a [Server platform](https://github.com/developer01234/bug-free-lamp)!
 - 🌱 I’m currently learning Backend
 - ⚡ Fun fact: I love to listen to [face](https://www.youtube.com/c/facemoney)
+- 📫 How to reach me: [telegram](https://t.me/Lenin_liveing)
 
 ### Languages and Tools:
 <div style="display: inline_block">
