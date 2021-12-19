@@ -1,4 +1,4 @@
-### Hi there, I'm Ruslan
+### Hi there 👋, I'm Ruslan Shvetsov
 
 ## I'm Fullstack Web Developer
 - 🔭 I'm currently working on a [Server platform](https://github.com/developer01234/bug-free-lamp)!
