@@ -1,4 +1,4 @@
-### Hi there 👋, I'm a Fullstack Developer
+## Hi there 👋 I'm a Full-Stack Developer
 
 - 🔭 I'm currently working on a [Server platform](https://github.com/developer01234/bug-free-lamp)!
 - 🌱 I’m currently learning Backend
