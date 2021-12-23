@@ -49,6 +49,6 @@
 
 <!--## My Certificates
 
-### ![Moscow Institute of Physics and Technology]()
+### ![Deep Learning School]()
 
 -->
