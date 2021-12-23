@@ -2,10 +2,12 @@
 
 - 🔭 I'm currently working on a none <!--[Server platform](https://github.com/developer01234/bug-free-lamp)!-->
 - 🌱 I’m currently learning NestJs, algorithms
-- ⚡ Fun fact: I love to listen to [face](https://www.youtube.com/c/facemoney)
+- 🤔 I’m looking for help with Backend
+- 💬 Ask me about Frontend
 - 📫 How to reach me: [telegram](https://t.me/Lenin_liveing)
+- ⚡ Fun fact: I love to listen to [face](https://www.youtube.com/c/facemoney)
 
-## Technology stack
+## Technology Skill
 
 **Back-end**
 
@@ -45,13 +47,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/wohumo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wohumo" /></a></p><br><br>
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!--## My Certificates
+
+### ![Moscow Institute of Physics and Technology]()
+
 -->
