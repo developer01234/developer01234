@@ -9,7 +9,7 @@
 
 **Back-end**
 
-![Express](https://img.shields.io/badge/-express-rad?style=flat-square&logo=express)
+![Express](https://img.shields.io/badge/-Express-rad?style=flat-square&logo=express)
 ![Nestjs](https://img.shields.io/badge/-Nestjs-red?style=flat-square&logo=Nestjs)
 
 **Databases**
