@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm a Full-Stack developer
 
-- 🔭 I'm currently working on a [Server platform](https://github.com/developer01234/bug-free-lamp)!
-- 🌱 I’m currently learning Backend
+- 🔭 I'm currently working on a none <!--[Server platform](https://github.com/developer01234/bug-free-lamp)!-->
+- 🌱 I’m currently learning NestJs, algorithms
 - ⚡ Fun fact: I love to listen to [face](https://www.youtube.com/c/facemoney)
 - 📫 How to reach me: [telegram](https://t.me/Lenin_liveing)
 
