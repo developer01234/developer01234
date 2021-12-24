@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ruslan Shvetsov</h1>
 <h3 align="center">A fullstack web developer from Russian</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=developer01234&label=Profile%20views&color=0e75b6&style=flat" alt="developer01234" /> </p>
-
-<img width="99%" src="https://github-profile-trophy.vercel.app/?username=developer01234&row=1&theme=darkhub"/>
+<p align="left"><img width="99%" src="https://github-profile-trophy.vercel.app/?username=developer01234&row=1&theme=darkhub"/></p>
 
 - 🔭 I’m currently working on **[My messanger](https://github.com/developer01234/messanger)**
 
