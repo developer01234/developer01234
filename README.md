@@ -3,7 +3,7 @@
 - 🔭 I'm currently working on a none <!--[Server platform](https://github.com/developer01234/bug-free-lamp)!-->
 - 🌱 I’m currently learning NestJs, algorithms
 - 🤔 I’m looking for help with Backend
-- 💬 Ask me about ![bio link](https://github.com/developer01234/partfolio)
+- 💬 Ask me about ![bio link](https://developer01234.github.io/partfolio/)
 - 📫 How to reach me: [telegram](https://t.me/Lenin_liveing)
 - ⚡ Fun fact: I love to listen to [face](https://www.youtube.com/c/facemoney)
 
