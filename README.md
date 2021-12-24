@@ -30,8 +30,8 @@
 **Tools**
 
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-ffce5a?style=flat-square&logo=jetbrains)
-![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-4764c4?style=flat-square&logo=jetbrains)
+![Postman](https://img.shields.io/badge/Postman-FFF?style=flat-square&logo=postman)
 
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
