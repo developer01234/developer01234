@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, NodeJS and NestJS**
 
-- 📫 How to reach me How to reach me by **[telegram](https://t.me/Lenin_liveing)**
+- 📫 How to reach me by **[telegram](https://t.me/Lenin_liveing)**
 
 - 📄 Know about my experiences **[Partfolio](https://developer01234.github.io/partfolio/)**
 
