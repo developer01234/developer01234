@@ -3,11 +3,11 @@
 
 <p align="left"><img width="99%" src="https://github-profile-trophy.vercel.app/?username=developer01234&row=1&theme=darkhub"/></p>
 
-- 🔭 I’m currently working on **[My messanger](https://github.com/developer01234/messanger)**
+- 🔭 I’m currently working on **[instagram](https://github.com/developer01234/instagram)**
 
 - 🌱 I’m currently learning **NestJS, Algorithms**
 
-- 🤝 I’m looking for help with **[My messanger](https://github.com/developer01234/messanger)**
+- 🤝 I’m looking for help with **[instagram](https://github.com/developer01234/instagram)**
 
 - 👨‍💻 All of my projects are available at **[Github](https://github.com/developer01234)**
 
