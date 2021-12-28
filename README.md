@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruslan Shvetsov</h1>
-<h3 align="center">A fullstack web developer from Russia</h3>
+<h3 align="center">A full-stack web developer from Russia</h3>
 
 <p align="left"><img width="99%" src="https://github-profile-trophy.vercel.app/?username=developer01234&row=1&theme=darkhub"/></p>
 
