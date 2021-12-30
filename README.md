@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **[instagram](https://github.com/developer01234/instagram)**
 
-- 🌱 I’m currently learning **NestJS, Algorithms, Basic Hacking**
+- 🌱 I’m currently learning **NestJS, Python, Algorithms, Basic Hacking**
 
 - 🤝 I’m looking for help with **[instagram](https://github.com/developer01234/instagram)**
 
