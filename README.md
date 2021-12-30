@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences **[Partfolio](https://developer01234.github.io/partfolio/)**
 
-- ⚡ Fun fact **I like listen [FACE](https://www.youtube.com/c/facemoney)**
+- ⚡ Fun fact **I like listen [MORGENSHTERN](https://www.youtube.com/c/mmdcrew)**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
