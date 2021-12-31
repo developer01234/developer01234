@@ -1,5 +1,9 @@
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
 <h1 align="center">Hi 👋, I'm Ruslan Shvetsov</h1>
-<h3 align="center">A full-stack web developer from Russia</h3>
+<h3 align="center">I'm a passionate Full Stack Developer from Russia</h3>
+
+## 🙋‍♂️ About Me
 
 <p align="left"><img width="99%" src="https://github-profile-trophy.vercel.app/?username=developer01234&row=1&theme=darkhub"/></p>
 
@@ -19,7 +23,8 @@
 
 - ⚡ Fun fact **I like listen [MORGENSHTERN](https://www.youtube.com/c/mmdcrew)**
 
-<h3 align="left">Languages and Tools:</h3>
+## 🚀 Languages and Tools:
+
 <p align="left">
 	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 		<img
@@ -156,6 +161,7 @@
 	</a>
 </p>
 
+## 📊 My Github Stats
 
 <p>
 <img width="400px" src="https://github-readme-stats.vercel.app/api?username=developer01234&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true" />
