@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **Python, Algorithms, Basic Hacking**
 
-- 👨‍💻 All of my projects are available at **[Partfolio](https://developer01234.github.io/partfolio/)**
+- 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 💬 Ask me about **React, NodeJS and NestJS**
+- 👨‍💻 All of my projects are available at **[Partfolio](https://developer01234.github.io/partfolio/)**
 
 - 📫 How to reach me by **[telegram](https://t.me/Lenin_liveing)**
 
