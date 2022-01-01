@@ -3,23 +3,18 @@
 <h1 align="center">Hi 👋, I'm Ruslan Shvetsov</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Russia.</h3>
 
-## 🙋‍♂️ About Me
 
-<p align="left"><img width="99%" src="https://github-profile-trophy.vercel.app/?username=developer01234&row=1&theme=darkhub"/></p>
+## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[instagram](https://github.com/developer01234/instagram)**
 
 - 🌱 I’m currently learning **Python, Algorithms, Basic Hacking**
 
-- 🤝 I’m looking for help with **[instagram](https://github.com/developer01234/instagram)**
-
-- 👨‍💻 All of my projects are available at **[Github](https://github.com/developer01234)**
+- 👨‍💻 All of my projects are available at **[Partfolio](https://developer01234.github.io/partfolio/)**
 
 - 💬 Ask me about **React, NodeJS and NestJS**
 
 - 📫 How to reach me by **[telegram](https://t.me/Lenin_liveing)**
-
-- 📄 Know about my experiences **[Partfolio](https://developer01234.github.io/partfolio/)**
 
 - ⚡ Fun fact **I like listen [MORGENSHTERN](https://www.youtube.com/c/mmdcrew)**
 
@@ -43,6 +38,8 @@
 </p>
 
 ## 📊 My Github Stats
+
+<p align="left"><img width="99%" src="https://github-profile-trophy.vercel.app/?username=developer01234&row=1&theme=darkhub"/></p>
 
 <p>
 <img width="400px" src="https://github-readme-stats.vercel.app/api?username=developer01234&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true" />
