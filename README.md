@@ -37,10 +37,13 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
 </p>
 
-## 📊 My Github Stats
+<br/>
 
 <p align="left"><img width="99%" src="https://github-profile-trophy.vercel.app/?username=developer01234&row=1&theme=darkhub"/></p>
 
+## 📊 My Github Stats
+
+<br/>
 <p>
 <img width="400px" src="https://github-readme-stats.vercel.app/api?username=developer01234&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true" />
 <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer01234&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&layout=compact&langs_count=8&hide=css,html,dockerfile,freemarker" />
