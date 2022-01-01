@@ -18,6 +18,10 @@
 
 - ⚡ Fun fact **I like listen [MORGENSHTERN](https://www.youtube.com/c/mmdcrew)**
 
+<br/>
+
+<p align="left"><img width="99%" src="https://github-profile-trophy.vercel.app/?username=developer01234&row=1&theme=darkhub"/></p>
+
 ## 🚀 Languages and Tools:
 
 <p align="left">
@@ -36,10 +40,6 @@
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="48" height="48"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
 </p>
-
-<br/>
-
-<p align="left"><img width="99%" src="https://github-profile-trophy.vercel.app/?username=developer01234&row=1&theme=darkhub"/></p>
 
 ## 📊 My Github Stats
 
