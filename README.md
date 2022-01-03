@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[instagram](https://github.com/developer01234/instagram)**
+- 🔭 I’m currently working on **[twitter](https://github.com/developer01234/twitter-client)**
 
 - 🌱 I’m currently learning **Python, Algorithms, Basic Hacking**
 
