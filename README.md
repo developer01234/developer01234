@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python, Algorithms, Basic Hacking**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects** and **private corporation**
+- 👯 I’m looking to collaborate on **OpenSource Projects** and **Private Corporation**
 
 - 👨‍💻 All of my projects are available at **[Partfolio](https://developer01234.github.io/partfolio/)**
 
