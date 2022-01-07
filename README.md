@@ -16,7 +16,7 @@
 
 - 📫 How to reach me by **[telegram](https://t.me/Lenin_liveing)**
 
-- ⚡ Fun fact **I like listen [MORGENSHTERN](https://www.youtube.com/c/mmdcrew)**
+- ⚡ Fun fact **I am a monarch, Orthodox and homophobic**
 
 <br/>
 
