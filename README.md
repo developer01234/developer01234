@@ -16,8 +16,6 @@
 
 - 📫 How to reach me by **[telegram](https://t.me/Lenin_liveing)**
 
-- ⚡ Fun fact **I am a monarch, Orthodox and homophobic**
-
 <br/>
 
 <p align="left"><img width="99%" src="https://github-profile-trophy.vercel.app/?username=developer01234&row=1&theme=darkhub"/></p>
