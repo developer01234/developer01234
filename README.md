@@ -2,8 +2,6 @@
 
 <h1 align="center">Hi <img src="https://github.com/developer01234/developer01234/blob/main/wave.gif" width="30px">, I'm Ruslan Shvetsov</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Russia.</h3>
-<h3 align="center">I hate 🇺🇦.</h3>
-
 
 ## 🙋‍♂️ About Me
 
