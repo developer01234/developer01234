@@ -43,7 +43,7 @@
 <br/>
 <p>
 <img width="435px" src="https://github-readme-stats.vercel.app/api?username=developer01234&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true" />
-<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer01234&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&layout=compact&langs_count=8&hide=css,php,html,dockerfile,freemarker,shell,hack,makefile" />
+<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer01234&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&layout=compact&langs_count=8&hide=css,php,html,dockerfile,freemarker,shell,hack,makefile,assembly" />
 </p>
 
 <h3 align="left">Support:</h3>
