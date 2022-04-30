@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **[CMS](https://github.com/developer01234/CMS-PHP)**
 
-- 🌱 I’m currently learning **Python, Algorithms, Basic Hacking**
+- 🌱 I’m currently learning **Computer Science**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects** and **Private Corporation**
 
@@ -46,5 +46,5 @@
 <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer01234&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&layout=compact&langs_count=8&hide=css,html,dockerfile,freemarker,shell,hack,makefile,assembly" />
 </p>
 
-<h3 align="left">Support:</h3>
+<h3 align="left">Help the Russian occupant:</h3>
 <p><a href="https://www.buymeacoffee.com/wohumo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wohumo" /></a></p><br><br>
