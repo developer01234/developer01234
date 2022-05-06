@@ -41,9 +41,13 @@
 ## 📊 My Github Stats
 
 <br/>
-<p>
-<img width="435px" src="https://github-readme-stats.vercel.app/api?username=developer01234&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true" />
-<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer01234&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&layout=compact&langs_count=8&hide=css,html,dockerfile,freemarker,shell,hack,makefile,assembly" />
+<p align="center">
+  <table>
+    <tr>
+      <td><img width="550px" src="https://github-readme-stats.vercel.app/api?username=developer01234&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true" /></td>
+      <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer01234&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&layout=compact&langs_count=8&hide=css,html,dockerfile,freemarker,shell,hack,makefile,assembly" /></td>
+    </tr>
+  </table>
 </p>
 
 <h3 align="left">Help the Russian occupant:</h3>
