@@ -49,12 +49,9 @@
 
 ## 📊 My Github Stats
 
-<br/>
-<p align="center">
-  <table>
-    <tr>
-      <td><img width="550px" src="https://github-readme-stats.vercel.app/api?username=developer01234&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true" /></td>
-      <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer01234&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&layout=compact&langs_count=8&hide=css,html,dockerfile,freemarker,shell,hack" /></td>
-    </tr>
-  </table>
-</p>
+<table>
+  <tr>
+    <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=developer01234&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true" /></td>
+    <td><img height="195px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer01234&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&layout=compact&langs_count=8&hide=css,html,dockerfile,freemarker,shell,hack" /></td>
+  </tr>
+</table>
