@@ -1,19 +1,13 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://github.com/developer01234/developer01234/blob/main/wave.gif" width="30px" height="30px">, I'm Ruslan Shvetsov</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Russia.</h3>
+<h3 align="center">I'm a passionate Full Stack Developer</h3>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[CMS](https://github.com/developer01234/CMS-PHP)**
-
-- 🌱 I’m currently learning **Computer Science**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects** and **Private Corporation**
-
-- 👨‍💻 All of my projects are available at **[Partfolio](https://developer01234.github.io/partfolio/)**
-
-- 📫 How to reach me by **[telegram](https://t.me/Hack_you_mother)**
+- 📍 I’m From Russia
+- 💻 2+ Years Experience in Front-end Development & 📚 1+ Years Experience in Back-end
+- 👨‍💻 Front-end Developer
 
 <br/>
 
