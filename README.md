@@ -1,4 +1,4 @@
-## My name is Ruslan and I'm a backend software engineer. I'm from Russia, living in Ivanovo
+My name is Ruslan and I'm a backend software engineer. I'm from Russia, living in Ivanovo
 
 ### 🔧 Technologies & Tools:
 
@@ -11,8 +11,8 @@
 <p align="center">
 <table>
   <tr>
-    <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=developer01234&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true" /></td>
-    <td><img height="195px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer01234&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&layout=compact&langs_count=8&hide=css,html,dockerfile,freemarker,shell,hack" /></td>
+    <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=developer01234&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
+    <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer01234&hide=html&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
   </tr>
 </table>
 <p />
