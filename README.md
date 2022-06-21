@@ -1,3 +1,5 @@
+## 👋 Hi there!
+
 My name is Ruslan and I'm a backend software engineer. I'm from Russia, living in Ivanovo
 
 ### 🔧 Technologies & Tools:
