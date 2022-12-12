@@ -5,7 +5,7 @@ My name is Ruslan and I'm a fullstack software engineer. I'm from Russia, living
 ### 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=5194f0&bgcolor=110d17)
-![](https://img.shields.io/badge/Editor-VisualStudio-informational?style=flat-square&logo=visual-studio&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=5194f0)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat-square&logo=csharp&logoColor=white&color=5194f0)
 ![](https://img.shields.io/badge/Engine-Unity-informational?style=flat-square&logo=unity&logoColor=white&color=5194f0)
 
