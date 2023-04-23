@@ -18,3 +18,6 @@ My name is Ruslan and I'm a fullstack software engineer. I'm from Russia, living
   </tr>   
 </table>
 </p>
+
+# 🇦🇿🤝🇷🇺 
+# 🇺🇦🤝🇷🇺
